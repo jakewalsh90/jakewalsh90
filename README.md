@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Azure / Terraform / DevOps 
+- 🌱 I’m currently learning K8s / IOT / AI
+
+ - 💻 My blog is at [jakewalsh.co.uk](jakewalsh.co.uk)
+ - 👾 I also tweet over [@jakewalsh90](twitter.com/jakewalsh90)
+
 <!--
 **jakewalsh90/jakewalsh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
