@@ -1,6 +1,6 @@
 ### Hello! 😊
 
-- 🔭 I’m currently working on Azure / Hybrid Cloud / Terraform / DevOps 
+- 🔭 I’m currently working on Azure / Hybrid Platforms / Terraform / DevOps and more... 
 - 🌱 I’m currently learning K8s / IOT / AI
 
  - 💻 My blog is at [jakewalsh.co.uk](https://jakewalsh.co.uk)
